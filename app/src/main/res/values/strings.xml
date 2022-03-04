@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyRate</string>
+    <string name="enter_amount">Enter the amount</string>
+    <string name="refresh">Refresh</string>
+</resources>
